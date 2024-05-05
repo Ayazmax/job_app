@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142129271846",
+    "project_id": "jobseek-6353e",
+    "storage_bucket": "jobseek-6353e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142129271846:android:ce63ccd3ca6ad153afc2e7",
+        "android_client_info": {
+          "package_name": "com.example.job_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApq02ezM7LeyV0p1M3siZmjCgA3WqFhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
